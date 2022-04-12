@@ -1,0 +1,6 @@
+for : es un operador de tipo bucle donde que esta conformado por 3 elementos 
+primero la variable a declarar, segundo la condicional y por ultimo el incremento, 
+este operador realiza un bucle que termina cuando la condicion se cumple.
+&&: Este operador logico evalua si todas las condiciones se cumplen entonces se ejecutan si una no cumple no se ejecuta, podria traducirse como "Y" "and" 
+||: Este operador logico evalua si una de las condiciones se cumplen entonces se ejecuta si ninguna se cumple entonces no se ejecutan, se traduce como "O" "OR"
+!: Este operador logico es una negacion es decir si algo es verdadero al negarlo lo vuelve falso o si es falso lo vuelve verdadero, se traduciria como "NOT" 

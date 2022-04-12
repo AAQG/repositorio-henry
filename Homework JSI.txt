@@ -1,0 +1,6 @@
+Variables: Es un identificador que representa un valor los cuales podemos declararlo de 3 formas.
+Strings: Es un tipo de dato que representa texto, contiene valor de texto y va entre apostrofes. 
+Funciones: Es un metodo para ejecutar una determinada accion dependiendo o que se le ordene (Argumentos: son los valores que contendra el
+metodo para ser llamadados como variables, return retorna el valor dependiendo lo declarado en la función)
+Declaraciones: Es la forma en que determinamos una variable. las cuales podemos declararlas en 3 tipos, "var" "let" y "const" (if: es una condicional que le damos a una función, la condicion puede ser mayor o menor, mayor igual, menor igual, etc).
+Valores Booleanos: Son valores que solo representan "true" y "false" true es verdadero y false es falso, parecido a los 0 y 1 del lenguaje maquina. 
